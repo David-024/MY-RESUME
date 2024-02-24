@@ -1,0 +1,62 @@
+body{
+    padding: 0;
+    margin: 0px;
+    margin-left: 20px;
+    background-color: rgb(209, 229, 255);
+}
+img{
+    height: 250PX;
+    width: 200px;
+    border-radius: 10px black;
+    align-items: center;
+    /* margin-left: auto; */
+    border-color: black;
+    border-radius: 20%;
+    padding: 0;
+    display: flex;
+}
+#image{
+    align-items: center;
+    justify-content: center;
+    margin-top:20px;
+    padding: 0;
+   
+}
+.NAME{
+/* text-decoration: underline; */
+font-style: oblique;
+width: 90%;
+margin-left: auto;
+background-color: rgb(14, 13, 13);
+color: aliceblue;
+padding: 40px;
+font-size: 50px;
+}
+.about{
+    height: 5px;
+    width: 500px;
+    font-size: large;
+}
+h1{
+    margin-top: 0%;
+}
+#imabout{
+    display: flex;
+    gap: 70px;
+}
+.address{
+    font-size: large;
+}
+#a{
+    width: max-content;
+    height: fit-content;
+}
+#education{
+    display: flex;
+    gap: 100px;
+}
+#certificates{
+    margin-top: 40px;
+    display: flex;
+    gap: 220px;
+}
